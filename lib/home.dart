@@ -121,7 +121,7 @@ class About extends StatelessWidget {
         title: new Text('About'),
       ),
       body: new Center(
-        child: new Text('Copyright '),
+        child: new Text('Copyright by Dendy Renaldi Irawan - 18111190 '),
       ),
     );
   }
